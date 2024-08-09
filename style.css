@@ -95,8 +95,8 @@ main {
   position: absolute;
   top: 2.5%;
   left: 2.5%;
-  width: 95vw;
-  height: 95vh;
+  width: 95svw;
+  height: 95svh;
   float: left;
   perspective: 750px;
 }
